@@ -22,6 +22,3 @@ Welcome to my submission for the **AI/Python Intern Assignment**. This project e
 - ✅ Clean modular codebase (`main.py` + `pdf_extractor.py`)
 
 ---
-
-## 📁 Folder Structure
-
