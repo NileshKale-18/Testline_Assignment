@@ -22,3 +22,10 @@ Welcome to my submission for the **AI/Python Intern Assignment**. This project e
 - ✅ Clean modular codebase (`main.py` + `pdf_extractor.py`)
 
 ---
+
+## ⚙️ How to Run This Project
+Step 1: Install Required Python Libraries
+
+First, make sure you have Python 3.8 or above installed.
+
+Step 2: python main.py
